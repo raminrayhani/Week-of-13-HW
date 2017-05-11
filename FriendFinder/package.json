@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder - Node and Express Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raminrayhani/Week-of-13-HW.git"
+  },
+  "keywords": [
+    "FF"
+  ],
+  "author": "ramin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raminrayhani/Week-of-13-HW/issues"
+  },
+  "homepage": "https://github.com/raminrayhani/Week-of-13-HW#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonfile": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
